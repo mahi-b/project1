@@ -24,3 +24,15 @@ tr:hover{
   background-color: coral;
   cursor: pointer;
 }
+  button{
+      padding: 5px;
+      border-radius: 25px;
+     width: 60px;
+      background-color: rgb(15, 143, 255);
+      color: rgb(255, 255, 255);
+      font-weight: bold;
+    }
+    .rmline{
+      text-decoration:none;
+      color: white ;
+    }
