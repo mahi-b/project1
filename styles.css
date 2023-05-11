@@ -13,3 +13,14 @@ body{
   font-weight: 900;
   text-decoration: underline;
 }
+table,th,td{
+  border:2px solid;
+  border-collapse:collapse;
+  text-align: left;
+  vertical-align: middle;
+  padding: 10px;
+}
+tr:hover{
+  background-color: coral;
+  cursor: pointer;
+}
